@@ -18,7 +18,7 @@ This project implements a real-time temperature and humidity sensing system usin
 
 ## Project Structure
 ```
-Temp-and-Humidity-Monitoring-System/
+Environment-Monitoring-System/
 ├── platformio.ini          # PlatformIO configuration
 ├── src/
 │   └── main.cpp           # Main ESP32 firmware
@@ -46,8 +46,8 @@ Temp-and-Humidity-Monitoring-System/
 
 2. Clone or download this repository:
    ```
-   git clone https://github.com/r43t/Temp-and-Humidity-Monitoring-System.git
-   cd Temp-and-Humidity-Monitoring-System
+   git clone https://github.com/r43t/Environment-Monitoring-System.git
+   cd Environment-Monitoring-System
    ```
 
 3. Open the project in PlatformIO:
